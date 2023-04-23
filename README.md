@@ -17,7 +17,7 @@ To use the employee database system, follow the steps below:
 
 - Clone or download the project files to your local machine.
 
-- Install the required dependencies, if any. For example, if the project uses a relational database, you need to install and configure the corresponding database software on your local machine or on a remote server.
+- Install the required dependencies, if any. For example, if the project uses a relational database, install and configure the corresponding database software on your local machine or on a remote server.
 
 - Build and compile the Java project using a Java IDE (e.g., Eclipse, IntelliJ, etc.) or a build automation tool (e.g., Maven, Gradle, etc.).
 
@@ -26,7 +26,7 @@ To use the employee database system, follow the steps below:
 - Use the provided options to perform CRUD operations on employee records, search for employees, and manage the database.
 
 ## Usage
-Once the employee database system is up and running, you can use the provided menu options or user interface to perform various operations, such as adding new employees, updating existing employee records, deleting employees, and searching for employees based on different criteria. The system should provide feedback on the success or failure of operations and display the results of search queries.
+Once the employee database system is up and running, use the provided menu options or user interface to perform various operations, such as adding new employees, updating existing employee records, deleting employees, and searching for employees based on different criteria. The system should provide feedback on the success or failure of operations and display the results of search queries.
 
 ## Conclusion
 This system can be used to manage employee records and perform CRUD operations in a convenient and efficient manner. 
